@@ -8,7 +8,7 @@
 
 ### How to reach me:
 
-[<img align="left" alt="francisChigozie.com" width="22px" src="https://raw.githubusercontent.com/iconic/ open-iconic/master/svg/globe.svg" />][https://portfolio-chigozie.heroku.app.com]
+[https://portfolio-chigozie.heroku.app.com](chigozie's portfolio)
 
 ### Languages and Tools:
 
