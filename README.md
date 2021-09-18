@@ -14,13 +14,14 @@
 
 - JavaScript, Embedded JavaScript,
 - Node JavaScript, Node Express js
-- CSS3, HTML5, Bootstrap
+- CSS3, HTML5 and Responsive Web Design, Bootstrap
 - React, Material UI
-- Git and GitHub
+- Version Control System (Git & GitHub)
 - Linux basics: The Command Line Interface
 - C Programming: Using Linux Tools and Libraries
-- SQL data bases , Mongo Data base , and ORM concepts (Sequelizer)
+- Databases (SQL, NoSQL ) and ORM concepts (Sequelizer)
 - Analyzing and Visualizing Data with Excel
+- Agile tools and methodologies
 
 <!---
 francisChigozie/francisChigozie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
