@@ -8,7 +8,7 @@
 
 ### How to reach me:
 
-[francischigozie-portfolio](https://portfolio-chigozie.heroku.app.com)
+[francischigozie-portfolio](https://francischigozie-portfolio.herokuapp.com)
 
 ### Languages and Tools:
 
