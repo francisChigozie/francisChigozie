@@ -20,7 +20,7 @@
 - Version Control System (Git & GitHub)
 - Linux basics: The Command Line Interface
 - C Programming: Using Linux Tools and Libraries
-- Databases (SQL, NoSQL ) and ORM concepts (Sequelizer)
+- Databases (SQL, NoSQL )
 - Analyzing and Visualizing Data with Excel
 - Agile tools and methodologies
 
