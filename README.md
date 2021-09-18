@@ -24,6 +24,11 @@
 - Analyzing and Visualizing Data with Excel
 - Agile tools and methodologies
 
+### Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <!---
 francisChigozie/francisChigozie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
