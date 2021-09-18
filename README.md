@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Web & App Software developer 👀
 - 🌱 I’m currently studying Advanced IT Security  
-- 💞️ I’m looking to collaborate with other content creators
+- 💞️ I’m looking to collaborate with other developers and content creators
 - 2022 Goals: Contribute to educating younger coding generation
 - Fun fact: I love to paly Table Tennis / Drums
 
