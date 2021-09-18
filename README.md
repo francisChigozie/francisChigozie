@@ -16,6 +16,7 @@
 - Node JavaScript, Node Express js
 - CSS3, HTML5 and Responsive Web Design, Bootstrap
 - React, Material UI
+- Restful API's
 - Version Control System (Git & GitHub)
 - Linux basics: The Command Line Interface
 - C Programming: Using Linux Tools and Libraries
