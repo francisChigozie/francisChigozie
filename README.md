@@ -24,6 +24,8 @@
 - Analyzing and Visualizing Data with Excel
 - Agile tools and methodologies
 
+<br>
+
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
