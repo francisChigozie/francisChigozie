@@ -8,7 +8,7 @@
 
 ### How to reach me:
 
-[francischigozie-portfolio](https://peaceful-everglades-93815.herokuapp.com/)
+[francischigozie-portfolio](https://digital-space.herokuapp.com)
 
 ### Languages and Tools:
 
