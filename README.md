@@ -7,7 +7,7 @@
 
 ### How to reach me:
 
-[francischigozie-portfolio](https://digitalexhibition.herokuapp.com/)
+[francischigozie-portfolio](https://www.chigoziefrancis-portfolio.dev/dist/)
 
 ### Languages and Tools:
 
