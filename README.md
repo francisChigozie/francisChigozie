@@ -27,7 +27,7 @@
 
 ### Some Frontend And Backend Designs
 <!-- BLOG-POST-LIST:START -->
-- [My Digital Spces](https://digitalexhibition.herokuapp.com/)
+- [My Digital Space](https://digitalexhibition.herokuapp.com/)
 <!-- BLOG-POST-LIST:END -->
 
 
