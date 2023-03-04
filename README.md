@@ -7,7 +7,7 @@
 
 ### How to reach me:
 
-[francischigozie-portfolio](https://digitalexhibition.herokuapp.com/)
+[francischigozie-portfolio](https://fc-portfolio01.onrender.com/index.html)
 
 ### Languages and Tools:
 
