@@ -1,13 +1,13 @@
 ### Hi there, I’m Mr. Francis 👋  
 
 ## I'm a Full Stack Web & App Software developer 👀 
-- 💞️ I’m looking to collaborate with other developers and content creators
-- 2022 Goals: Contribute to educating younger coding generation
-- Fun fact: I love to paly Table Tennis / Drums
+ 💞️ Coding is best hobby
+- I like working and contributting to my team
+- Fun fact: I love to paly Table Tennis and other games
 
 ### How to reach me:
 
-[francischigozie-portfolio](https://fc-portfolio01.onrender.com/index.html)
+[francischigozie-portfolio](https://fcwebapp01.herokuapp.com/booksearch)
 
 ### Languages and Tools:
 
