@@ -7,7 +7,7 @@
 
 ### How to reach me:
 
-[francischigozie-portfolio](https://fcwebapp01.herokuapp.com/booksearch)
+[francischigozie-portfolio](https://fcwebapp01.herokuapp.com)
 
 ### Languages and Tools:
 
