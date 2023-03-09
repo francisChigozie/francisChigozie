@@ -7,7 +7,7 @@
 
 ### How to reach me:
 
-[francischigozie-portfolio](https://fcwebapp01.herokuapp.com)
+[francischigozie-portfolio](https://francischigozie.herokuapp.com/)
 
 ### Languages and Tools:
 
