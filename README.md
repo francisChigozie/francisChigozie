@@ -23,10 +23,11 @@
 <br>
 
 ### Java Enterprise Application Development - Backend 
-- Spring
-- Spring Boot 3
-- Java Persistance ( Jpa )
+- Spring Boot 
+- Java Persistance API ( JPA )
+- Spring Data JPA
 - Hibernate
+- Spring Security
 
 
 <!---
