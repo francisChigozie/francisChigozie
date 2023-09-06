@@ -29,6 +29,8 @@
 - Hibernate
 - Spring Security
 - REST API's
+  <br>
+  [Sample REST API](https://franktech-coding-sch.onrender.com/swagger-ui/index.html#/)
 
 
 <!---
