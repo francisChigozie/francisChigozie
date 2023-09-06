@@ -30,11 +30,9 @@
 - Spring Security
 - REST API's
   
-  <br>
 
   ### Sample REST API's
   
-  <br>
   [Frank-Tech Coding School](https://franktech-coding-sch.onrender.com/swagger-ui/index.html#/)
 
 
