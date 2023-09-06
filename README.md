@@ -31,7 +31,7 @@
 - REST API's
   
 
-  ### Sample REST API's
+  ### Spring Boot REST API's
   
   [Frank-Tech Coding School](https://franktech-coding-sch.onrender.com/swagger-ui/index.html#/)
 
