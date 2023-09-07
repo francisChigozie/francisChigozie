@@ -20,8 +20,6 @@
 - Databases (SQL, NoSQL )
 - Agile tools and methodologies
 
-<br>
-
 ### Java Enterprise Application Development - Backend 
 - Spring Boot 
 - Java Persistance API ( JPA )
@@ -30,7 +28,6 @@
 - Spring Security
 - REST API's
   
-
   ### Spring Boot REST API's
 
    [Online Media Shop](https://online-mediashop.onrender.com/swagger-ui/index.html#/)
