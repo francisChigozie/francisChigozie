@@ -32,7 +32,7 @@
 
    [Online Media Shop](https://mediashopping.onrender.com/swagger-ui/index.html)
   
-  [Frank-Tech Coding School](https://franktech-coding-sch.onrender.com/swagger-ui/index.html#/)
+  [Frank-Tech Coding School(https://frankbootcamp.onrender.com/swagger-ui/index.html)
 
 
 <!---
