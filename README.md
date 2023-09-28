@@ -5,7 +5,7 @@
 - I like working and contributting to my team
 - Fun fact: I love to paly Table Tennis and other games
 
-### Digital work Space:
+### Contact Page:
 
 [francischigozie-portfolio](https://francischigozie.herokuapp.com/)
 
