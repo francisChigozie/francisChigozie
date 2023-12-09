@@ -30,9 +30,9 @@
   
   ### Spring Boot REST API's
 
-   [Online Media Shop](https://mediashopping.onrender.com/swagger-ui/index.html)
+   [Online Media Shop](https://mediashop-5ce6a0f3e3c5.herokuapp.com/swagger-ui/index.html)
   
-  [Frank-Tech Coding School](https://frankbootcamp.onrender.com/swagger-ui/index.html)
+  [Frank-Tech Coding School](https://techcodingschool-aa4a1bf80d99.herokuapp.com/swagger-ui/index.html)
 
 
 <!---
