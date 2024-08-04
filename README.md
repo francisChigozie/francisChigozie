@@ -19,6 +19,7 @@
 - Version Control System (Git & GitHub)
 - Databases (SQL, NoSQL )
 - Agile tools and methodologies
+- Cloud Programming - Terraform
 
 ### Java Enterprise Application Development - Backend 
 - Spring Boot 
