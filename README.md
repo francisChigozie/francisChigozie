@@ -18,7 +18,7 @@
 - Version Control System (Git & GitHub)
 - Databases (SQL, NoSQL )
 - Agile tools and methodologies
-- AWS Cloud Practioner
+- AWS Cloud Practitioner
 - Cloud Programming - Terraform , CloudFormation
 
 ### Java Enterprise Application Development - Backend 
