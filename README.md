@@ -11,15 +11,15 @@
 
 ### Languages and Tools:
 
-- JavaScript, Embedded JavaScript,
-- Node JavaScript, Node Express js
-- CSS3, HTML5 and Responsive Web Design, Bootstrap
-- React, Material UI
+- JavaScript , Node Express js
+- CSS3, HTML5 and Bootstrap
+- React, Angular
 - Restful API's
 - Version Control System (Git & GitHub)
 - Databases (SQL, NoSQL )
 - Agile tools and methodologies
-- Cloud Programming - Terraform
+- AWS Cloud Practioner
+- Cloud Programming - Terraform , CloudFormation
 
 ### Java Enterprise Application Development - Backend 
 - Spring Boot 
